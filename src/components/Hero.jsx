@@ -1,5 +1,4 @@
 import React from "react";
-// import mockup from "../assets/metaverse.png";
 import mockup from "../assets/nft_games.png";
 
 import { Navbar } from "../components";
@@ -20,9 +19,10 @@ const Hero = () => {
                 <span className="text-green-400">for Games</span>
               </h3>
               <p className="text-md md:text-xl text-gray-400">
-                With Altura you can create, update, <br /> and transfer NFTs
-                in-game without technical <br /> complexity or costly
-                investment.
+                With Altura you can create, update,{" "}
+                <br className="hidden md:block" /> and transfer NFTs in-game
+                without technical <br className="hidden md:block" /> complexity
+                or costly investment.
               </p>
             </div>
           </div>

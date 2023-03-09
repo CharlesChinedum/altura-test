@@ -48,12 +48,6 @@ const ModalComponent = ({
                     <td className={tableData1}>TokenID</td>
                     <td className={tableData2}> {tokenId} </td>
                   </tr>
-                  {/* <tr className="flex w-full justify-between">
-                    <td className={tableData1}>Collection Address</td>
-                    <td className={`${tableData2} break-words`}>
-                    {collectionAddress}
-                    </td>
-                  </tr> */}
                   <tr className="flex w-full justify-between">
                     <td className={tableData1}>Supply</td>
                     <td className={tableData2}> {supply} </td>

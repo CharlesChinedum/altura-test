@@ -4,7 +4,6 @@ import axios from "axios";
 import { Card } from "../components";
 import img from "../assets/metaverse.png";
 
-// const baseURL = "https://jsonplaceholder.typicode.com/photos?_limit=8";
 const baseURL =
   "https://api.alturanft.com/api/v2/item?collectionAddress=0x78e99615063da7c12c247e6bc01240da00df77ae&slim=true";
 const address = "0x78e99615063da7c12c247e6bc01240da00df77ae";

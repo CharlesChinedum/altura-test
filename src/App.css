@@ -3,7 +3,6 @@ body {
 }
 
 .card {
-/* From https://css.glass */
 background: rgba(116, 110, 110, 0.2);
 border-radius: 16px;
 box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
