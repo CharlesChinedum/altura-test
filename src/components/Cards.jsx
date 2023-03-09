@@ -27,7 +27,7 @@ const Cards = () => {
 
   return (
     <div className="w-full relative mt-10">
-      <div className="text-center">
+      <div className="text-center px-3">
         <h2 className="text-[4rem] md:text-[5rem] text-[#ec51b1]">
           Collections
         </h2>

@@ -13,7 +13,7 @@ const Hero = () => {
 
         <div className="flex flex-col md:flex-row w-full h-full">
           <div className="flex-1 w-full md:w-[50%] flex items-center justify-start">
-            <div className="px-5 md:px-12 flex flex-col gap-7">
+            <div className="px-5 md:px-12 flex flex-col gap-2 md:gap-7">
               <h3 className="text-[2.8rem] md:text-[5rem] font-bold leading-[2.7rem] md:leading-[4rem] flex flex-col">
                 <span className="text-[#ec51b1]">Web3</span>
                 <span className="text-gray-400">Infrastructure</span>
